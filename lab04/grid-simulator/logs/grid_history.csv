@@ -1,0 +1,1445 @@
+Timestamp,Event,Details
+2026-05-25T17:38:22.052047164+02:00,GRID_EVENT,Symulacja uruchomiona pomyślnie. Utworzono wszystkie gorutyny.
+2026-05-25T17:38:22.152927738+02:00,GRID_EVENT,Nadwyżka w sieci. Ładowanie ESS: +25.00 MW
+2026-05-25T17:38:22.152932503+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.98 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:22.252891781+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:22.252984741+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.65 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:22.352665241+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.05 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:22.352676563+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:22.4525584+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.23 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:22.452597503+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:22.553087605+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.14 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:22.553117676+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:22.65302118+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.06 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:22.653050187+02:00,GRID_EVENT,Niedobór w sieci. Rozładowanie ESS: -0.14 MW
+2026-05-25T17:38:22.752751524+02:00,GRID_EVENT,Niedobór w sieci. Rozładowanie ESS: -18.33 MW
+2026-05-25T17:38:22.752755065+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.96 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:22.852256578+02:00,GRID_EVENT,Niedobór w sieci. Rozładowanie ESS: -31.53 MW
+2026-05-25T17:38:22.852259117+02:00,GRID_EVENT,CRITICAL: Brak mocy w sieci i bateriach (Deficyt: 4.63 MW). Uruchamianie Load Shedding.
+2026-05-25T17:38:22.852277882+02:00,GRID_EVENT,"Konsument Kowalski_Dom: Partial/LoadShed (Żądano: 12.50 MW, Otrzymano: 0.00 MW. Powód: LoadShed)"
+2026-05-25T17:38:22.852283741+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -5.28 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:22.852283967+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:22.952979913+02:00,GRID_EVENT,CRITICAL: Brak mocy w sieci i bateriach (Deficyt: 56.19 MW). Uruchamianie Load Shedding.
+2026-05-25T17:38:22.952999917+02:00,GRID_EVENT,"Konsument Szpital_Miejski: Partial/LoadShed (Żądano: 10.00 MW, Otrzymano: 0.00 MW. Powód: LoadShed)"
+2026-05-25T17:38:22.953007304+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.79 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:22.953019466+02:00,GRID_EVENT,"Konsument Kowalski_Dom: Partial/LoadShed (Żądano: 12.50 MW, Otrzymano: 0.00 MW. Powód: LoadShed)"
+2026-05-25T17:38:22.953024956+02:00,GRID_EVENT,"Konsument Fabryka_Stali: Partial/LoadShed (Żądano: 36.00 MW, Otrzymano: 0.00 MW. Powód: LoadShed)"
+2026-05-25T17:38:23.052802304+02:00,GRID_EVENT,CRITICAL: Brak mocy w sieci i bateriach (Deficyt: 36.30 MW). Uruchamianie Load Shedding.
+2026-05-25T17:38:23.052834766+02:00,GRID_EVENT,"Konsument Kowalski_Dom: Partial/LoadShed (Żądano: 12.50 MW, Otrzymano: 0.00 MW. Powód: LoadShed)"
+2026-05-25T17:38:23.052841851+02:00,GRID_EVENT,"Konsument Szpital_Miejski: Partial/LoadShed (Żądano: 10.00 MW, Otrzymano: 0.00 MW. Powód: LoadShed)"
+2026-05-25T17:38:23.05284249+02:00,GRID_EVENT,"Konsument Fabryka_Stali: Partial/LoadShed (Żądano: 20.00 MW, Otrzymano: 0.00 MW. Powód: LoadShed)"
+2026-05-25T17:38:23.052847557+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.35 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:23.152238826+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.74 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:23.152247792+02:00,GRID_EVENT,Nadwyżka w sieci. Ładowanie ESS: +50.00 MW
+2026-05-25T17:38:23.252390199+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.41 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:23.252400486+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:26.246211884+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:26.246228293+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.66 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:26.346071933+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.99 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:26.346080193+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:26.445816532+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:26.44590494+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.30 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:26.445906353+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:26.545653496+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:26.545670087+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.70 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:26.645361326+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:26.645391935+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.37 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:26.746026189+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.02 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:26.746033015+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:26.845684419+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:26.845720778+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 5.00 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:26.945411675+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.37 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:26.94541886+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:27.046225546+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.44 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:27.046233828+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:27.146041397+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.94 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:27.146048903+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:27.245649049+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -5.15 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:27.245651784+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:27.245658481+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:27.345405593+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.13 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:27.345407518+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:27.345414417+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:27.446075451+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.79 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:27.446077701+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:27.44610531+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:27.545705227+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.54 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:27.545733622+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:27.645237416+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.21 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:27.645239883+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:27.645247447+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:27.745894687+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.27 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:27.745901651+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:27.846228654+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.68 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:27.846235926+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:27.946045626+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.02 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:27.946047698+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:27.946054268+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:28.045469516+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.74 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:28.045477058+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:28.14607298+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.82 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:28.146082071+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:28.245757565+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:28.245832253+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.81 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:28.345339549+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.12 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:28.345346516+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:28.445730098+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.06 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:28.44575855+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:28.545480538+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.95 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:28.545482562+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:28.545489496+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:28.646056324+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.23 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:28.646064711+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:28.745906438+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.87 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:28.745913789+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:28.845625338+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.82 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:28.845632766+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:28.946140259+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.16 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:28.946147528+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:29.046128359+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.37 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:29.046135551+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:29.146170023+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.44 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:29.146226096+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:29.246143311+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.54 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:29.246167388+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:29.345971151+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:29.346009219+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.84 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:29.446049314+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.61 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:29.446056154+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:29.545995461+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.96 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:29.546002842+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:29.64579317+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:29.645812116+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.85 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:29.745614839+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:29.745638914+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -5.10 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:29.745640434+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:29.846214101+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.57 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:29.846222102+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:29.946033157+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.36 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:29.946035228+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:29.946041167+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:30.045482776+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.53 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:30.045490036+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:30.145408443+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.81 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:30.145415949+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:30.245398313+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.28 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:30.245406385+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:30.346019553+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:30.346039429+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.38 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:30.445660029+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:30.445701559+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.09 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:30.545527246+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.17 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:30.545548165+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:30.645238544+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:30.645292888+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.41 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:30.746060948+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:30.746077162+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.46 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:30.84565999+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:30.845665195+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.41 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:30.945352928+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:30.945385773+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.52 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:30.945386457+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:31.045919944+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:31.045936316+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.36 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:31.14568041+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:31.145699998+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.79 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:31.145700296+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:31.245347743+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:31.245365931+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.27 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:31.245366278+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:31.345763043+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.05 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:31.345771261+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:31.445573034+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:31.445624046+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.10 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:31.545224626+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:31.545242358+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.35 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:31.54524274+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:31.645946943+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:31.645970597+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.95 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:31.645972129+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:31.745501835+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:31.745530836+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.30 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:31.845978808+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:31.846012077+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.14 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:31.945589709+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:31.945660811+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.30 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:32.045232231+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.92 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:32.045240507+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:32.146144865+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.70 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:32.146167427+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:32.245836906+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.71 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:32.245881367+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:32.345457872+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.25 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:32.345460044+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:32.345467167+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:32.446210941+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:32.446248887+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.50 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:32.546054443+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:32.5460729+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.75 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:32.546073272+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:32.64588649+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:32.64591157+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.90 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:32.745769238+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:32.745786532+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.46 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:32.84573035+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.15 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:32.845737929+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:32.945514361+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:32.945603762+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.38 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:33.045492929+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.31 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:33.04549724+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:33.145374582+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:33.145392088+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -5.48 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:33.145392481+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:33.245408284+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:33.245433708+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.50 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:33.346155124+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:33.346172052+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.53 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:33.446031848+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:33.446075991+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.51 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:33.546215748+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:33.546244272+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.71 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:33.64594394+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:33.645966784+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.61 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:33.745989527+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.04 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:33.746003187+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:33.845633637+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:33.845652704+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.11 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:33.845653053+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:33.945551828+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:33.945582523+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.90 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:33.945583029+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:34.045745608+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:34.045782222+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:34.145509354+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:34.145530061+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.30 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:34.145540563+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:34.245537964+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:34.245632191+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.87 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:34.245632888+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:34.345641939+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:34.345671155+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.44 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:34.445758442+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.57 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:34.445781858+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:34.545795089+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:34.545882108+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.39 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:34.545883421+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:34.645799962+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:34.645857668+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.70 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:34.74608802+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:34.746106103+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.59 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:34.845926951+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 5.54 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:34.845933613+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:34.945935279+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:34.945971443+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.75 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:35.045814186+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:35.045833619+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.96 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:35.145699675+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:35.145736189+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.15 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:35.245520206+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.61 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:35.245545534+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:35.345524358+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:35.345620019+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.59 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:35.345620532+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:35.445718993+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.70 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:35.445723271+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:35.545844654+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:35.545863231+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.21 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:35.645541686+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.00 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:35.645545693+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:35.745374556+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:35.745393216+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.26 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:35.845406601+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:35.845421236+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.70 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:35.946074976+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:35.946116651+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.47 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:36.045998067+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:36.046040623+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.77 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:36.146142775+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.51 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:36.146171565+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:36.245259203+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:36.245289017+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.63 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:36.346204326+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:36.346221723+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.13 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:36.446231719+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:36.446261843+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.07 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:36.545245195+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:36.545263071+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.85 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:36.646207358+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:36.646226978+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.11 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:36.646227297+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:36.746018011+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:36.74604087+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.61 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:36.845840039+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:36.84587359+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.18 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:36.945606488+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.73 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:36.945608433+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:36.945614555+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:37.045601617+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:37.04562365+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.36 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:37.045624994+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:37.145374221+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:37.145409043+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.34 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:37.246147871+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:37.246163321+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.55 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:37.346077875+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:37.346136784+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.02 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:37.445983986+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:37.446025799+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.41 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:37.446038149+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:37.545797744+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.50 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:37.545806422+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:37.645758691+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:37.645789737+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.57 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:37.745764628+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:37.745779473+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.11 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:37.745779788+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:37.845638288+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.67 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:37.845644979+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:37.94539456+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:37.945440974+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:38.045584644+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:38.045605144+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.88 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:38.145793521+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.54 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:38.145797527+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:38.245815675+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.89 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:38.245849661+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:38.345643295+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:38.345660158+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.07 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:38.445525479+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.77 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:38.445534249+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:38.545528967+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:38.545560992+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.58 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:38.64523881+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:38.645254696+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.01 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:38.746227111+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.46 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:38.746256421+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:38.845314998+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:38.845340082+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -5.12 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:38.845340432+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:38.945361464+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:38.945416761+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.04 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:38.945417392+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:39.045598627+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:39.045616021+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.52 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:39.145238873+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.81 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:39.145246848+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:39.246138663+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:39.24615585+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.42 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:39.346122464+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.99 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:39.34613008+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:39.4462073+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:39.446268082+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.83 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:39.545603925+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:39.545609715+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.63 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:39.645353107+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:39.645368502+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.66 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:39.746208124+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:39.746213053+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 5.01 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:39.846002525+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:39.846028499+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.92 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:39.945858727+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:39.945892775+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.37 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:39.945893345+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:40.046254995+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.98 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:40.046284139+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:40.145733175+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.30 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:40.145759297+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:40.245414611+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:40.245441601+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.61 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:40.345835561+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:40.345882939+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.70 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:40.445644197+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:40.445687054+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.00 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:40.54548106+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.74 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:40.545494279+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:40.646217587+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.16 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:40.646219657+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:40.646225545+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:40.745991301+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:40.746009892+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.73 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:40.84559094+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:40.845607379+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.41 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:40.946088248+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.01 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:40.946102213+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:40.946107643+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:41.045670464+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.02 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:41.045672693+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:41.045716375+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:41.146142028+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.16 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:41.146144092+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:41.146150188+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:41.246022246+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.76 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:41.246029889+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:41.345624328+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.22 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:41.345659508+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:41.445469883+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:41.445500093+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.50 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:41.545368711+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.98 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:41.545370643+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:41.545377043+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:41.645980511+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.03 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:41.64602363+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:41.74573135+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.94 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:41.745749121+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:41.845515294+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:41.845531189+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.97 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:41.946038941+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:41.946081519+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.18 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:42.045593132+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:42.045619659+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.09 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:42.045621154+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:42.146108014+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.37 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:42.146115483+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:42.245795126+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.90 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:42.245803253+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:42.345565774+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:42.34558082+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.12 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:42.446141053+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:42.446231175+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.72 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:42.546069741+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:42.546096433+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.47 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:42.645886936+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.35 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:42.64590003+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:42.645902632+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:42.745711702+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:42.745723426+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.64 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:42.845434107+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:42.84545904+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.08 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:42.946212825+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:42.946267803+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.38 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:43.046044476+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.33 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:43.04604869+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:43.145936446+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:43.145955465+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.09 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:43.24565726+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:43.245673875+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.61 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:43.245674271+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:43.345401877+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.72 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:43.34540623+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:43.446212133+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:43.446248599+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.79 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:43.546134054+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:43.546149916+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.98 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:43.645885166+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:43.645910003+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.52 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:43.745505572+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:43.745521873+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.09 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:43.846110747+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:43.846153607+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.66 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:43.945781627+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.76 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:43.945783591+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:43.945789579+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:44.045528339+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:44.045555423+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.55 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:44.145240877+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:44.14526127+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.05 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:44.246093688+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:44.24611152+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.72 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:44.345863873+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:44.345943179+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.11 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:44.345943942+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:44.445495524+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.86 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:44.445502757+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:44.545353583+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:44.545370952+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.90 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:44.645972038+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.54 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:44.645979105+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:44.745727164+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:44.745742839+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.49 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:44.845701728+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:44.84572163+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.45 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:44.945715557+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.62 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:44.945723231+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:45.046129637+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:45.046147823+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.39 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:45.145721335+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:45.145766398+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.31 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:45.245508596+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:45.245526057+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 5.23 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:45.345366177+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:45.345386441+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.65 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:45.445248324+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:45.445283838+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.55 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:45.445285222+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:45.546115057+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:45.546132555+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.50 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:45.645817754+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:45.645890389+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.22 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:45.745814017+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:45.745842473+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.87 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:45.845660027+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:45.845665709+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.25 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:45.946233397+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:45.946283352+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.11 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:45.946284773+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:46.0459884+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:46.046073457+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.26 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:46.046074744+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:46.146052932+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:46.146107948+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.95 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:46.245792614+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:46.245810037+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.00 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:46.345529485+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:46.345549149+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.62 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:46.345549442+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:46.446206304+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.96 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:46.446214238+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:46.546162414+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:46.546213833+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.19 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:46.645941734+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:46.645960304+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.31 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:46.745575661+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.66 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:46.745583217+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:46.845321852+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.81 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:46.845324116+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:46.845326804+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:46.945674106+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:46.945716618+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.58 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:47.045823807+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:47.045878913+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.68 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:47.145851279+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:47.145878599+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.33 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:47.245554885+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.13 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:47.24555899+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:47.345641855+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:47.345672848+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.52 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:47.345673234+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:47.445258659+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:47.445304194+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -5.67 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:47.445305959+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:47.545238408+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:47.545324633+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.49 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:47.646239105+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:47.646255818+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.45 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:47.7459595+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:47.74597789+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.49 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:47.845630821+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:47.845647891+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.88 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:47.845648241+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:47.945355644+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:47.945388411+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.58 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:48.045470918+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.85 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:48.045473122+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:48.045479007+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:48.145351665+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.88 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:48.145378874+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:48.245878152+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:48.245903647+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.63 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:48.245905128+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:48.345792221+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:48.345809827+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.00 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:48.445493526+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.00 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:48.445502313+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:48.545416991+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:48.545445586+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.55 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:48.646214914+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.06 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:48.64622204+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:48.746122526+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:48.746146474+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.42 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:48.845615111+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:48.845667261+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:48.945244209+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.63 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:48.945251831+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:49.045950223+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:49.045982669+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.39 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:49.145934484+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:49.145972146+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.89 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:49.245886207+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:49.245911095+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.92 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:49.345691927+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:49.345718977+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.10 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:49.445437293+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:49.445533351+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.07 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:49.545698985+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:49.545714664+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.24 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:49.64550407+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:49.64556581+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.85 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:49.645566373+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:49.745553083+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:49.745656024+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.19 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:49.845470939+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:49.845496093+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.54 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:49.946003438+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:49.946037132+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.10 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:50.045756243+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.67 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:50.045760455+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:50.145500765+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:50.145525664+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.71 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:50.246215324+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:50.246254992+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.76 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:50.246256181+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:50.345590463+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.42 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:50.345597927+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:50.445272734+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:50.445340075+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.11 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:50.546138028+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:50.546142872+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.35 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:50.546143227+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:50.645945213+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:50.645998531+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.85 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:50.745999229+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:50.746023119+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.18 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:50.8458409+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.93 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:50.845853424+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:50.945836098+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:50.945875427+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.71 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:51.045614109+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -5.39 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:51.0456164+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:51.045647064+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:51.145230839+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:51.145252691+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.57 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:51.245984332+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:51.246068589+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.19 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:51.345491605+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:51.345509724+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:51.445313248+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:51.445345757+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.36 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:51.546234303+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.87 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:51.546239041+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:51.645996681+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:51.646023258+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.24 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:51.745512515+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:51.745529204+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.93 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:51.845761053+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:51.845780948+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.58 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:51.946229389+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:51.946272411+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.75 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:52.046126178+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:52.046142665+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.37 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:52.145881624+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:52.145901011+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.38 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:52.24538727+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.34 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:52.245389405+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:52.245424762+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:52.34590278+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.11 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:52.345909849+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:52.445671152+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:52.445711115+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.25 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:52.545351787+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.13 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:52.545356155+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:52.645903427+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.14 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:52.645932162+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:52.745361414+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.17 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:52.745459374+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:52.845974967+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.76 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:52.846004207+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:52.945509717+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.12 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:52.945517487+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:53.046162532+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.18 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:53.046197798+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:53.14561359+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:53.145640998+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.44 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:53.245248366+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:53.245348336+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.15 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:53.245349621+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:53.345327402+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:53.34537691+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.13 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:53.345378479+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:53.44616166+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:53.44626074+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.39 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:53.545981724+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:53.546008119+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.37 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:53.546009517+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:53.645736233+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:53.645765578+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.30 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:53.745244627+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.70 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:53.745252807+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:53.845915153+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:53.84593026+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.25 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:53.945851432+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:53.945938585+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.83 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:54.045487792+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:54.045526979+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.34 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:54.146253469+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:54.146270022+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.07 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:54.146270335+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:54.245765531+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:54.245793795+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.12 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:54.345531694+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:54.34556032+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.19 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:54.445436412+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.22 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:54.445438536+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:54.445441207+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:54.546115576+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.48 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:54.546123495+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:54.646047761+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:54.646073759+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.91 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:54.745611549+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.53 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:54.745662251+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:54.845554251+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.10 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:54.845556335+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:54.845562554+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:54.946138382+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:54.946198543+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.05 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:55.046055442+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:55.046073618+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.13 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:55.14591659+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.55 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:55.145925372+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:55.245661272+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.70 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:55.24566837+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:55.346242145+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:55.346282948+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.00 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:55.346283685+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:55.445930008+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:55.44597094+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.62 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:55.545634395+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.47 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:55.545637176+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:55.545665175+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:55.646151897+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:55.646171775+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.85 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:55.745755117+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.21 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:55.745783594+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:55.845588015+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.46 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:55.845590317+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:55.845604476+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:55.945454375+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.56 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:55.945461401+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:56.046028183+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.34 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:56.046030161+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:56.046036663+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:56.145750193+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:56.14576828+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.21 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:56.245618188+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.04 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:56.245648625+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:56.345667097+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 5.06 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:56.345696304+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:56.445526172+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:56.445559843+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.16 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:56.54609828+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.56 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:56.546127679+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:56.645536026+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.25 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:56.645543245+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:56.745322621+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.12 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:56.745329824+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:56.846054328+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:56.846070981+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.67 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:56.945411842+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:56.945454148+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:57.046192247+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.19 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:57.046200419+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:57.145807733+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:57.145824399+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.78 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:57.145824694+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:57.245674198+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:57.245704337+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.90 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:57.34547124+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.44 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:57.34550403+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:57.445369501+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:57.445401498+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -5.83 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:57.445402309+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:57.545240443+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:57.54526755+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.89 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:57.645888413+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:57.645921476+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.91 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:57.745803834+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:57.745856016+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.15 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:57.745856634+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:38:57.845788827+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:57.845815077+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.38 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:57.945758821+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:57.945802838+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.89 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:58.045613597+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.94 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:58.045621639+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:58.145370026+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.07 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:58.145377869+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:58.246207703+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.99 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:58.246215373+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:38:58.345827094+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.41 jednostek w ciągu 1 GridStep
+2026-05-25T17:38:58.345834399+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:01.359191529+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:01.359227604+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.28 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:01.459272245+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.86 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:01.459282013+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:01.560088163+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.74 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:01.56009604+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:01.659927801+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.61 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:01.659934447+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:01.759397887+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.63 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:01.759424109+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:01.859800877+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:01.859834994+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.68 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:01.859835802+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:01.959607967+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:01.959624271+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.86 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:02.060141817+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.41 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:02.06014382+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:02.060150728+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:02.159836937+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.16 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:02.159839474+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:02.159846597+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:02.25965021+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:02.259668025+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.98 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:02.359239905+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.02 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:02.359247978+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:02.459245932+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.18 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:02.459248355+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:02.459254228+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:02.559993903+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.11 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:02.560020866+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:02.659607345+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.12 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:02.65961584+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:02.759262177+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.54 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:02.759270705+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:02.859109675+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.69 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:02.859111962+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:02.859118092+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:02.959742611+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.37 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:02.959762499+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:03.059260817+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:03.059276364+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.65 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:03.160137347+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.33 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:03.16014614+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:03.259905708+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.88 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:03.25991262+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:03.359552804+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.75 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:03.359560507+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:03.45927552+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:03.459307179+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.26 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:03.559980775+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:03.560006106+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.47 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:03.659446752+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:03.659469752+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.54 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:03.759297383+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.11 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:03.759305531+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:03.860036844+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:03.860083278+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.35 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:03.959846213+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.81 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:03.959853901+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:04.059651378+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:04.059698226+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.20 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:04.159568247+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.13 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:04.159575674+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:04.260123533+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.52 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:04.260131776+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:04.359808309+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.88 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:04.359842221+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:04.459637231+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:04.459659496+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.60 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:04.559501149+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.26 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:04.559508512+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:04.659249705+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:04.659267223+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.40 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:04.759926334+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:04.759950076+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.71 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:04.759950618+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:04.859343118+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.73 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:04.859367849+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:04.959128769+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 5.41 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:04.959136308+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:05.059761128+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:05.059780024+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.33 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:05.159371391+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:05.159402847+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.56 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:05.260015317+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:05.260104115+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.38 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:05.260104961+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:05.359904385+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.31 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:05.35991258+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:05.459591381+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.20 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:05.45962069+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:05.56012143+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:05.56013606+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.60 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:05.659898037+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.44 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:05.659905531+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:05.759348555+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:05.759400058+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.22 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:05.859800821+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:05.859836568+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.36 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:05.859837068+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:05.959560372+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:05.959580091+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.88 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:06.059208119+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:06.059350797+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.49 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:06.160019146+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:06.160023988+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.62 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:06.160024292+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:06.25988037+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.73 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:06.259913251+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:06.359197142+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.27 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:06.359204135+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:06.4601465+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:06.460162683+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.12 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:06.560015509+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:06.560037189+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.63 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:06.659665896+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:06.659692018+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.60 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:06.759617798+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.99 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:06.759626199+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:06.859405969+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:06.859437592+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.04 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:06.959533056+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:06.959549878+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.02 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:07.059230585+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -5.53 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:07.059232772+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:07.059252192+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:07.159906618+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.47 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:07.159914087+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:07.259109161+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:07.259128056+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.82 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:07.359939563+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.26 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:07.359947789+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:07.459869348+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:07.459886803+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.30 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:07.459887113+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:07.559725569+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:07.559752405+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.43 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:07.559752826+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:07.659322026+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:07.659350037+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:07.759239842+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.77 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:07.759247004+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:07.859260829+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:07.859306048+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.08 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:07.959331379+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:07.959351831+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.11 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:08.059284335+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:08.059309424+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.56 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:08.15923889+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.32 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:08.159261309+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:08.260118+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:08.260142253+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.77 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:08.260143691+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:08.360070912+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.80 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:08.360078503+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:08.459784633+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.85 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:08.45978725+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:08.459816914+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:08.559704518+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:08.559723626+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.66 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:08.55972406+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:08.659753277+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:08.659774341+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.90 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:08.659774681+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:08.759797651+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:08.759816939+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.38 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:08.860098411+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:08.860132264+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.68 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:08.960029787+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.42 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:08.960035471+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:09.059863344+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:09.059952149+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.43 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:09.159805007+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:09.159821268+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.83 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:09.259722875+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.04 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:09.259739532+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:09.359383451+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.09 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:09.359385609+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:09.359388392+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:09.459351753+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:09.45936962+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.68 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:09.459370014+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:09.559250949+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:09.559266146+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.85 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:09.65923697+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:09.659261241+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.25 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:09.759346236+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.32 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:09.759353686+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:09.859146446+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.92 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:09.859148553+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:09.859179485+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:09.960087687+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.68 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:09.960118949+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:10.060105287+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:10.060137376+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.21 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:10.159779981+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.89 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:10.159809701+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:10.259421169+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:10.259449468+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.34 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:10.359855012+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:10.35996692+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.16 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:10.359968331+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:10.459798183+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.30 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:10.459818285+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:10.55977002+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:10.559833373+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.28 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:10.659873309+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:10.659888477+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.19 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:10.759509756+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:10.759531359+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.23 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:10.859387648+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:10.859419957+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:10.960008685+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:10.960039726+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.10 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:11.059857781+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:11.059871771+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.83 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:11.05987352+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:11.159633508+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.94 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:11.159642454+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:11.259361585+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:11.259366706+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -5.08 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:11.259367086+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:11.360133567+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:11.360174695+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.77 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:11.459253279+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:11.459259898+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.03 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:11.559940011+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:11.559973795+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:11.659782622+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:11.659800372+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.97 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:11.659800899+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:11.759719015+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:11.759751937+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.96 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:11.85942408+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:11.859460005+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.87 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:11.959315945+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:11.959401421+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.18 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:12.059260554+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:12.059284819+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.02 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:12.159234356+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:12.159249779+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 5.46 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:12.259928749+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.58 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:12.25993647+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:12.359709703+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:12.359745164+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.23 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:12.459644095+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:12.459663686+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.25 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:12.459663954+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:12.559420266+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:12.559482261+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.99 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:12.659281011+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.48 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:12.659285595+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:12.760099399+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:12.76012306+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.21 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:12.859881608+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:12.859916632+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.00 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:12.959928673+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:12.959993551+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.96 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:13.059934052+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:13.059951754+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.41 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:13.15975609+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:13.159776971+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.37 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:13.259853346+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:13.259872765+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -5.07 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:13.259873096+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:13.359903083+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.87 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:13.359928347+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:13.459867232+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.61 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:13.459897326+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:13.559816317+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:13.559842262+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.33 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:13.659527664+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:13.659547767+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.77 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:13.759416245+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:13.75943434+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.38 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:13.759434655+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:13.859198068+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:13.859232606+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.38 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:13.960079733+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:13.960106888+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.60 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:14.060140468+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.91 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:14.060147494+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:14.159900724+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.80 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:14.159905199+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:14.259828988+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:14.259854905+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.24 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:14.359601747+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.95 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:14.359609093+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:14.459539032+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:14.459619474+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.33 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:14.459620729+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:14.559438318+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:14.559455657+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.43 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:14.659200703+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:14.659219199+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.62 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:14.659219539+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:14.759924597+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:14.759943068+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.00 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:14.759943401+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:14.859744182+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.23 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:14.85974688+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:14.859749969+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:14.959563508+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:14.959607136+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.94 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:15.059487883+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:15.059509672+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.45 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:15.159303193+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:15.159331716+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.61 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:15.260100412+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:15.260135342+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.23 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:15.35925675+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:15.359289388+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.69 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:15.459399127+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:15.45945335+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.57 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:15.559303066+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:15.559325037+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.67 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:15.65915384+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.74 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:15.659166611+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:15.759917512+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:15.759934613+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.01 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:15.859539339+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.36 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:15.859563916+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:15.959387602+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:15.959404552+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.08 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:16.060095473+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.99 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:16.060121589+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:16.159758887+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:16.159807824+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.02 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:16.159809123+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:16.259885774+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.16 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:16.259918096+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:16.359507193+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:16.359556377+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.61 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:16.459578371+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:16.45959637+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.81 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:16.559247165+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:16.559263139+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.52 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:16.659960682+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:16.659978115+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.47 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:16.659978478+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:16.760019452+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:16.760035515+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.94 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:16.859555278+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:16.859658515+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.98 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:16.959442445+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:16.959444917+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:16.959451044+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:17.059222453+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:17.059237081+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.91 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:17.159963023+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:17.160043732+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.09 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:17.259766809+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:17.259853129+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.07 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:17.359714969+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:17.359783794+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.18 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:17.459559167+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:17.459576062+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.91 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:17.559272885+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.95 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:17.559280762+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:17.659973921+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:17.660000988+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.88 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:17.660001457+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:17.759716946+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.86 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:17.759723743+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:17.859737089+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:17.859788155+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.53 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:17.859789682+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:17.95931378+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:17.959330822+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 5.24 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:18.060030654+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.58 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:18.060032861+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:18.06008507+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:18.160114566+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:18.160130358+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.69 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:18.259816023+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:18.25984276+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.86 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:18.35985201+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:18.359906709+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.15 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:18.359908332+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:18.459615076+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:18.459635715+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.81 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:18.559212804+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:18.559240772+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.78 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:18.659815301+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:18.659832291+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.17 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:18.759338765+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:18.759358191+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.67 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:18.860095661+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:18.860143859+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.40 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:18.95986725+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:18.959884849+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.55 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:18.959885185+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:19.059520566+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.14 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:19.059546818+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:19.16013624+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:19.160164694+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.76 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:19.260020157+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.16 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:19.260030217+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:19.359811586+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:19.35984224+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.41 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:19.459592109+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.58 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:19.459594468+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:19.45960148+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:19.559604231+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:19.559623226+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 6.74 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:19.659550881+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:19.659570375+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:19.759554667+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.37 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:19.759563044+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:19.859392885+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:19.859423606+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.53 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:19.959951415+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.45 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:19.959959289+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:20.059585858+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:20.059591184+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.75 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:20.160099147+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.91 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:20.160116443+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:20.259845424+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:20.259872202+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.78 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:20.359585754+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:20.359626547+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.92 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:20.459618926+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:20.459652202+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.08 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:20.559371803+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:20.559390257+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.04 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:20.660085386+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.12 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:20.660117021+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:20.759780311+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:20.759807811+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.95 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:20.859167783+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:20.859203194+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -6.62 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:20.859203865+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:20.960107476+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:20.960125518+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.20 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:21.059819404+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.52 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:21.059835506+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:21.159329724+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:21.159348216+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.00 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:21.259930805+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:21.259956859+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.78 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:21.35964419+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:21.35967791+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.75 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:21.459341036+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:21.459381009+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.22 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:21.560113183+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.71 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:21.560117781+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:21.65965213+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:21.659696802+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.49 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:21.759448493+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:21.759463613+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.33 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:21.859890005+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.79 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:21.859898202+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:21.959635597+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:21.959662162+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.26 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:22.059287995+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:22.059364584+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.94 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:22.059365948+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:22.160088581+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:22.160112908+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.22 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:22.259562468+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:22.25958126+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.08 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:22.359190754+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:22.359230915+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.52 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:22.459892912+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.86 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:22.459900173+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:22.559725338+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.74 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:22.559730277+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:22.659782674+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.02 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:22.659804675+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:22.75970254+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:22.759722167+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.13 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:22.86014904+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.47 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:22.860156695+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:22.959968925+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:22.960015587+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.11 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:22.96001702+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:23.059779748+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:23.059800041+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.71 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:23.160101361+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:23.160126499+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.61 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:23.160128072+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:23.259735835+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:23.259755405+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.40 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:23.259755766+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:23.359262281+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.56 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:23.359293021+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:23.460095506+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.78 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:23.460100349+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:23.559787456+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:23.559811148+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.14 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:23.659377329+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:23.659457888+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.64 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:23.65945943+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:23.759221523+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:23.759277989+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.67 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:23.759278561+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:23.859205448+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:23.859316789+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.19 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:23.960009304+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.25 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:23.960016992+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:24.059822245+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.37 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:24.059853646+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:24.159755336+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:24.159813532+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.32 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:24.259485375+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:24.25954812+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.79 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:24.359092806+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.00 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:24.35910094+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:24.45986461+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:24.459957725+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.68 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:24.559782513+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:24.55980873+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.58 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:24.659400438+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.85 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:24.659429883+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:24.760079629+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:24.760097527+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.81 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:24.859957871+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:24.860011315+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.01 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:24.860011705+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:24.959958682+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:24.959976563+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.13 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:25.059699291+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.31 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:25.05970809+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:25.160027366+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:25.160043557+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.08 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:25.160043857+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:25.259784714+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:25.259803337+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.79 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:25.359258116+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.04 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:25.359265475+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:25.459977985+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:25.460004367+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.18 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:25.559596802+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.39 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:25.55960912+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:25.659129622+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.43 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:25.65915312+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:25.759713296+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.71 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:25.759720741+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:25.859447592+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.47 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:25.859454466+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:25.959366994+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.42 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:25.959398499+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:26.059958998+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:26.059966844+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:26.159671773+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -6.71 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:26.159673962+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:26.159691076+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:26.259198693+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:26.259218588+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.75 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:26.359743267+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:26.359778441+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.05 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:26.459737523+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:26.459785313+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.26 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:26.559368751+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:26.559386323+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.44 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:26.559386651+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:26.660075132+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:26.660090365+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.41 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:26.660090784+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:26.759546607+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:26.759571231+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -8.91 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:26.759572838+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:26.859247083+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:26.859279932+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.05 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:26.859288316+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:26.959336703+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:26.959393115+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.49 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:27.060118126+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.65 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:27.060145395+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:27.159973719+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:27.160003014+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.39 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:27.259563789+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:27.259583866+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.00 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:27.3594121+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:27.359464129+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.13 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:27.35947586+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:27.460098115+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.38 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:27.460106283+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:27.559895468+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:27.55998439+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.51 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:27.65976634+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:27.659896327+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 4.41 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:27.759618466+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:27.759717482+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.86 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:27.85912117+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:27.859162672+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.86 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:27.95988712+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.64 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:27.959891328+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:28.05958694+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:28.059604841+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.07 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:28.059605174+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:28.159989461+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.54 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:28.160003798+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:28.259896094+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.75 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:28.259898679+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:28.25990132+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:28.359355884+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:28.359396371+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.23 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:28.359409907+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:28.459237852+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:28.459242984+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.83 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:28.459243352+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:28.559775202+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:28.559782287+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:28.659514414+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.71 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:28.659518886+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:28.759343789+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:28.759371392+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.08 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:28.759372866+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:28.860032762+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:28.860095918+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.45 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:28.959904298+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:28.959928454+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.08 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:29.060010755+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:29.060029016+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.17 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:29.15957961+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.44 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:29.159606611+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:29.260123982+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.97 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:29.260126336+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:29.260132997+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:29.359724379+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:29.3597531+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.29 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:29.45925121+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.30 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:29.459266732+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:29.560115269+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:29.560140387+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.98 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:29.66012761+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:29.660160012+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.82 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:29.759246328+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:29.759264374+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.61 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:29.75926471+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:29.859117843+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:29.859169457+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.42 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:29.960162905+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.09 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:29.960170871+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:30.059088294+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:30.05911389+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.52 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:30.059115357+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:30.159938541+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:30.159967589+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.75 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:30.26005938+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:30.260079271+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.84 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:30.359262046+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.31 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:30.359270015+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:30.459386354+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:30.459403962+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 5.09 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:30.55984425+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:30.559865523+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.03 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:30.660090499+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:30.660108212+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.57 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:30.75987969+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.30 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:30.759888162+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:30.859145261+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:30.859172549+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.85 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:30.95987519+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:30.959892971+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -0.85 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:31.059789163+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:31.059794267+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.63 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:31.159760834+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:31.159856691+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 3.22 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:31.259426646+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:31.259450165+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.05 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:31.359307938+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:31.359343473+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -3.76 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:31.359344149+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:31.45934583+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:31.459376464+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.50 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:31.559198222+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.01 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:31.5592193+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:31.659951705+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.42 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:31.659992017+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:31.759581947+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:31.759619731+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.55 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:31.859585022+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -4.96 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:31.859587444+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:31.859601037+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:31.959368444+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.21 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:31.959376757+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:32.059408183+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:32.059440324+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -2.36 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:32.05944195+02:00,GRID_EVENT,Ostrzeżenie: Prognozowany spadek OZE. Uruchamianie procedury rozgrzewania elektrowni węglowej.
+2026-05-25T17:39:32.159940709+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:32.160049919+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.81 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:32.260078713+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:32.260096103+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.28 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:32.360035369+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:32.360088375+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 1.40 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:32.459903135+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:32.459929395+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o -1.94 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:32.559618833+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:32.559705056+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.08 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:32.659579324+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:32.659604326+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.14 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:32.759114666+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 0.82 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:32.759143589+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
+2026-05-25T17:39:32.85974375+02:00,GRID_EVENT,Prognoza: Prędkość wiatru zmieni się o 2.36 jednostek w ciągu 1 GridStep
+2026-05-25T17:39:32.859751718+02:00,GRID_EVENT,"Nadwyżka w sieci, ESS pełny (100%). Ograniczanie mocy OZE (Curtailment)."
